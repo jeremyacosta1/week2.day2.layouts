@@ -1,0 +1,14 @@
+body 
+{   
+    background:url("../../assets/shoes.jpg");
+} 
+img{ height: 72px;
+ }
+.center_content{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    flex-direction: column;
+    font-size: 35px;
+}
